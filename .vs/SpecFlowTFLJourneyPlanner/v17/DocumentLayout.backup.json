@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|c:\\dev\\test\\specflowtfljourneyplanner\\drivers\\seleniumdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|solutionrelative:drivers\\seleniumdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|c:\\dev\\test\\specflowtfljourneyplanner\\features\\jouneryplanner.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|solutionrelative:features\\jouneryplanner.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|c:\\dev\\test\\specflowtfljourneyplanner\\pageobjects\\journeyplannerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|solutionrelative:pageobjects\\journeyplannerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|c:\\dev\\test\\specflowtfljourneyplanner\\stepdefinitions\\journeyplannersteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|solutionrelative:stepdefinitions\\journeyplannersteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|c:\\dev\\test\\specflowtfljourneyplanner\\specflowtfljourneyplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA880398-5D42-469E-A28B-EFEB1F570074}|SpecFlowTFLJourneyPlanner.csproj|solutionrelative:specflowtfljourneyplanner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JourneyPlannerSteps.cs",
+              "DocumentMoniker": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\StepDefinitions\\JourneyPlannerSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\JourneyPlannerSteps.cs",
+              "ToolTip": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\StepDefinitions\\JourneyPlannerSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\JourneyPlannerSteps.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA1wDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:08:46.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JourneyPlannerPage.cs",
+              "DocumentMoniker": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\PageObjects\\JourneyPlannerPage.cs",
+              "RelativeDocumentMoniker": "PageObjects\\JourneyPlannerPage.cs",
+              "ToolTip": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\PageObjects\\JourneyPlannerPage.cs",
+              "RelativeToolTip": "PageObjects\\JourneyPlannerPage.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:48:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleniumDriver.cs",
+              "DocumentMoniker": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\Drivers\\SeleniumDriver.cs",
+              "RelativeDocumentMoniker": "Drivers\\SeleniumDriver.cs",
+              "ToolTip": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\Drivers\\SeleniumDriver.cs",
+              "RelativeToolTip": "Drivers\\SeleniumDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:44:09.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecFlowTFLJourneyPlanner",
+              "DocumentMoniker": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\SpecFlowTFLJourneyPlanner.csproj",
+              "RelativeDocumentMoniker": "SpecFlowTFLJourneyPlanner.csproj",
+              "ToolTip": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\SpecFlowTFLJourneyPlanner.csproj",
+              "RelativeToolTip": "SpecFlowTFLJourneyPlanner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T23:42:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JouneryPlanner.feature",
+              "DocumentMoniker": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\Features\\JouneryPlanner.feature",
+              "RelativeDocumentMoniker": "Features\\JouneryPlanner.feature",
+              "ToolTip": "C:\\Dev\\Test\\SpecFlowTFLJourneyPlanner\\Features\\JouneryPlanner.feature",
+              "RelativeToolTip": "Features\\JouneryPlanner.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T23:40:29.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
